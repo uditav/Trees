@@ -1,0 +1,17 @@
+Basic terms:
+1. Root node
+2. Sub-tree
+3. Children
+4. Leaf node
+5. Ancestor
+
+Full Binary Tree: either 0 or 2 children
+
+Complete binary tree: All levels are completely filled except last level
+                      Last node has all nodes on left as possible
+
+Perfect binary tree: All leaf nodes at the same level
+
+Balanced binary tree: height of tree can be at max log(N), where N is number of nodes
+
+Degenerate tree: they are skew trees ie. every node has a single child
